@@ -12,3 +12,4 @@ C:\Users\Nkansah\Desktop\dcit318-assignment2-10984932\DCIT318Assigment2\obj\Debu
 C:\Users\Nkansah\Desktop\dcit318-assignment2-10984932\DCIT318Assigment2\obj\Debug\net8.0\DCIT318Assigment2.pdb
 C:\Users\Nkansah\Desktop\dcit318-assignment2-10984932\DCIT318Assigment2\obj\Debug\net8.0\DCIT318Assigment2.genruntimeconfig.cache
 C:\Users\Nkansah\Desktop\dcit318-assignment2-10984932\DCIT318Assigment2\obj\Debug\net8.0\ref\DCIT318Assigment2.dll
+C:\Users\Nkansah\Desktop\dcit318-assignment2-10984932\DCIT318Assigment2\obj\Debug\net8.0\DCIT318Assigment2.sourcelink.json
