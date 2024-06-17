@@ -8,5 +8,7 @@ class Program
         Task1.Execute();
         Console.WriteLine();
         Task2.Execute();
+        Console.WriteLine();
+        Task3.Execute();
     }
 }
